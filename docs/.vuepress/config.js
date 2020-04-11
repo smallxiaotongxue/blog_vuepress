@@ -5,12 +5,20 @@ module.exports = {
     title: 'smallxiao',
     description: '一点浩然气，千里快哉风~',
     head: [
-        ['link', { rel: 'icon', href: `/favicon.ico`}]
+        ['link', {rel: 'icon', href: `/favicon.ico`}],
+        ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}],
+        [
+            "script", {
+                "language": "javascript",
+                "type": "text/javascript",
+                "src": "https://cdn.staticfile.org/jquery/1.7.2/jquery.min.js"
+            }
+        ],
     ],
     theme: 'reco',
     themeConfig: {
+        type: 'blog',
         nav: nav,// 添加导航栏
-
         logo: '/avatar.jpg', //导航栏头像
         authorAvatar: '/avatar.jpg', //首页右侧头像
         // 搜索设置
@@ -56,6 +64,9 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    plugins: [
+        require('./plugins/musicPlayer/index')
+    ],
     dest: './docs/.vuepress/dist',
-    evergreen: true,
+    evergreen: false,
 };
