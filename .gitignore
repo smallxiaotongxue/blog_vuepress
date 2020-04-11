@@ -1,11 +1,12 @@
 node_modules/
+docs/.vuepress/dist/
 
 .vscode/
 .idea/
+.idea
+
 .tags
 npm-debug.log
 build/
 build_lib/
 package-lock.json
-
-.idea
