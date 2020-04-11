@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /favicon.ico
+heroImage: /avatar.jpg
 actionText: 开始 →
-actionLink: /guide/
+actionLink: /views/
 features:
 - title: 常见问题
   details: 工作中遇到的常见问题、以及难以解决的问题。
