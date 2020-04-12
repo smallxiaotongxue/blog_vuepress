@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /avatar.jpg
+heroImage: /ava.jpg
 heroImageStyle: {
   maxHeight: '200px',
   display: block,
   margin: '6rem auto 1.5rem',
-  borderRadius: '50%',
+  borderRadius: '5%',
   boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
 }
 actionText: 开始 →
