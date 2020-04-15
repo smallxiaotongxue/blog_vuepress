@@ -15,6 +15,13 @@ module.exports = {
             children:[]
         },
         {
+            title:'Element-UI',
+            collapsable: true,
+            children:[
+                'element-ui/组件el-scrollbar'
+            ]
+        },
+        {
             title:'常见问题 Question',
             collapsable: true,
             children:[
