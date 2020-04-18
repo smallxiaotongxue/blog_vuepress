@@ -1,7 +1,6 @@
 ---
 title: element-ui的隐藏组件el-scrollbar
 date: 2020-4-15 21:05:31
-sidebar: true
 categories:
  - element-ui
 tags:

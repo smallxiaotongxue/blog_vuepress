@@ -6,7 +6,7 @@ module.exports = {
             title:'前端 Front-end',
             collapsable: true,
             children:[
-
+                'front_end/静态页面开发心得',
             ]
         },
         {
@@ -32,6 +32,7 @@ module.exports = {
             title:'随记 Essay',
             collapsable: true,
             children:[
+                'essay/有哪些知识，你知道后你的世界马上就不一样了',
                 'essay/lets_begin_blog',
                 'essay/NVIDIA显示设置不可用问题解决',
                 'essay/一次心情的失落',
