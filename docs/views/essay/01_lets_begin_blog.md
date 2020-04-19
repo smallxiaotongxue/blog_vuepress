@@ -1,6 +1,7 @@
 ---
 title: Let's begin Blog
 date: 2018-06-08 22:35:11
+sidebar: true
 categories:
  - 随记
 tags:
