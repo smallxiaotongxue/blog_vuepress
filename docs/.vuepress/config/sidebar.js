@@ -7,6 +7,7 @@ module.exports = {
             collapsable: true,
             children:[
                 'front_end/01_静态页面开发心得',
+                'front_end/02_减少代码中的if-else',
             ]
         },
         {
