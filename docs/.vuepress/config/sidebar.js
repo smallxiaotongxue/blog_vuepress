@@ -8,6 +8,7 @@ module.exports = {
             children:[
                 'front_end/01_静态页面开发心得',
                 'front_end/02_减少代码中的if-else',
+                'front_end/03_http请求中的OPTIONS多余请求消除',
             ]
         },
         {
