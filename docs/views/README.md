@@ -10,6 +10,6 @@ sidebar: true
 
 [【分类】](/categories/前端/) | [【标签】](/tag/)
 
-[【前端】](/views/front-end/js-json.html) | [【后端】](/views/java/ArrayList.html) | [【随笔】](/views/essay/20191109.html)
+[【前端】](/views/front_end/03_http请求中的OPTIONS多余请求消除.html) | [【后端】](/views/java/ArrayList.html) 
 
 </div>
