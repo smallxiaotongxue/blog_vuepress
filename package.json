@@ -25,5 +25,12 @@
     "jquery": "^3.5.0",
     "vuepress": "^1.4.0",
     "vuepress-theme-reco": "^1.4.2"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "highlight.js": "^10.0.3",
+    "node-sass": "^4.14.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
   }
 }

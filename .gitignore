@@ -9,4 +9,3 @@ docs/.vuepress/dist/
 npm-debug.log
 build/
 build_lib/
-package-lock.json
