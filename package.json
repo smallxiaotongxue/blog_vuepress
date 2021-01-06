@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/smallxiaotongxue/blog_vuepress#readme",
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jquery": "^3.5.0",
     "vuepress": "^1.4.0",
     "vuepress-theme-reco": "^1.4.2"
